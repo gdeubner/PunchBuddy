@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Punch Buddy</string>
+    <string name="startTrainingButtonText">Lets Get Training!</string>
+    <string name="create_button">New List</string>
+    <string name="next_button">Next</string>
+    <string name="add_list_item">add</string>
+    <string name="cancel_edit">cancel</string>
+    <string name="done_button">done</string>
+    <string name="start_button">Start!</string>
+    <string name="set_settings">Set Settings</string>
+    <string name="speed_label">Speed</string>
+    <string name="per_set_label">Number Per Set</string>
+    <string name="number_of_sets_label">Number of Sets</string>
+    <string name="rest_label">Rest Time (seconds)</string>
+    <string name="pause_button">Pause</string>
+    <string name="end_button">End Workout</string>
+    <string name="logo_description">Punch Buddy Logo</string>
+    <string name="delete_button">Delete List</string>
+    <string name="edit_button">Edit List</string>
+    <string name="multiple_selection_toast_message">Please only select 1 list to edit.</string>
+    <string name="no_selection_toast_message">You haven\'t selected a list to edit.</string>
+    <string name="list_to_edit">ListToEdit</string>
+    <string name="list_name_hint">Enter the list\'s name.</string>
+    <string name="delete_warning">Are you sure you want to delete this list? This cannot
+        be undone.</string>
+    <string name="warning">Warning</string>
+    <string name="save_file">saveFile</string>
+    <string name="list_entry_hint">Enter a strike or target</string>
+    <string name="delete">delete</string>
+
+    <string name="introParagraph">
+        Meet your new personal trainer, Punch Buddy!\n\n
+        Use both preset and user created lists of\n
+        targets and punches to design your own\n
+        free form training regiment.
+    </string>
+
+    <string name="drillListInstructions">
+        Select one or more lists you\'d like to use for your session.\n
+         Alternatively, you may create a new list, or edit your old ones.
+    </string>
+    <string name="edit_instructions">
+        Here, you may add and remove elements from your list, as well as delete the entire list.
+    </string>
+    <string name="routine_instructions">
+        Set up your routine specifications like difficulty, rest time,
+        and frequency of each strike/target.
+    </string>
+
+    <string-array name="punchList">
+        <item>Jab</item>
+        <item>Straight Punch</item>
+        <item>Uppercut</item>
+        <item>Right Hook</item>
+        <item>Left Hook</item>
+    </string-array>
+
+    <string-array name="target_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="list_of_lists">
+        <item>Punch List</item>
+        <item>Target List</item>
+    </string-array>
+
+    <string-array name="speeds">
+        <item>Slow</item>
+        <item>Medium</item>
+        <item>Fast</item>
+        <item>Extreme</item>
+    </string-array>
+
+
+</resources>
